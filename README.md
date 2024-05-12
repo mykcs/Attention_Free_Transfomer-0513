@@ -9,3 +9,8 @@
 运行12分钟，没有什么bug。
 没有弄懂运行的意义。
 希望能添加wandb。
+
+RWKV-first_try-kaggle-0513.ipynb
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/rwkv-first-try-kaggle-0513-ipynb/notebook) 
+
+直接放在kaggle上面跑，没有任何改动。
